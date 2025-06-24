@@ -1,0 +1,22 @@
+{
+    "appAdsId": "",
+    "adsPriority": "1",
+    "adIDFirstOpenApp": "",
+    "adIDOpenCommonApp": "",
+    "adIdAdmobNative1": "",
+    "adIdAdmobNative2": "",
+    "adIdFacebookNative1": "",
+    "adIdFacebookNative2": "",
+    "adIdFacebookNativeBanner1": "",
+    "adIdFacebookNativeBanner2": "",
+    "adIdAdmobInterstitial1": "",
+    "adIdAdmobInterstitial2": "",
+    "adIdFacebookInterstitial1": "",
+    "adIdFacebookInterstitial2": "",
+    "affiliate_weburl1": "",
+    "affiliate_weburl2": "",
+    "affiliate_weburl3": "",
+    "affiliate_weburl4": "",
+    "nativeclickbeforeaid": "1",
+    "interclickbeforeaid": "1"
+}
